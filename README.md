@@ -2,7 +2,7 @@
 
 The code related to the paper below：
 
-XXX
+A communication-based identification of critical drones in malicious drone swarm networks
 
 ## Details
 
